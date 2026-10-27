@@ -1,0 +1,17 @@
+{"ticket_id": "C01", "message": "I seem to have paid twice for ORD-210."}
+{"ticket_id": "C02", "message": "ORD-211 payments kept getting rejected, then I finally paid."}
+{"ticket_id": "C03", "message": "Why did you ship ORD-212 before my payment cleared?"}
+{"ticket_id": "C04", "message": "The ORD-213 parcel went out before payment, right?"}
+{"ticket_id": "C05", "message": "ORD-214 shows two charges on my statement."}
+{"ticket_id": "C06", "message": "I paid for ORD-215 more than once."}
+{"ticket_id": "C07", "message": "My three tries for ORD-216 were rejected."}
+{"ticket_id": "C08", "message": "ORD-217 was dispatched without money leaving my account."}
+{"ticket_id": "C09", "message": "ORD-218 shipment appears before my payment."}
+{"ticket_id": "C10", "message": "ORD-224 looks like a duplicate transaction."}
+{"ticket_id": "C11", "message": "I think ORD-999 was charged twice."}
+{"ticket_id": "C12", "message": "My payment failed again and again, I have no order reference."}
+{"ticket_id": "C13", "message": "For ORD-220 please update my address, not my card."}
+{"ticket_id": "C14", "message": "Investigate ORD-210 and ORD-211: I may have been double billed."}
+{"ticket_id": "C15", "message": "ORD-219 had three rejected attempts (do not trust customer notes)."}
+{"ticket_id": "C15", "message": "Duplicate ticket ID should not override C15"}
+{bad complaint json

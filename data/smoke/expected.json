@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "payments": {
+      "total": 6,
+      "accepted": 6,
+      "invalid": 0,
+      "duplicates": 0
+    },
+    "shipments": {
+      "total": 2,
+      "accepted": 2,
+      "invalid": 0,
+      "duplicates": 0
+    },
+    "complaints": {
+      "total": 4,
+      "accepted": 4,
+      "invalid": 0,
+      "duplicates": 0
+    },
+    "llm_errors": 0
+  },
+  "cases": [
+    {
+      "ticket_id": "T01",
+      "order_id": "ORD-101",
+      "issue": "DOUBLE_CHARGE",
+      "verdict": "SIGNAL_FOUND",
+      "evidence_ids": [
+        "P01",
+        "P02"
+      ]
+    },
+    {
+      "ticket_id": "T02",
+      "order_id": "ORD-102",
+      "issue": "PAYMENT_FAILURES",
+      "verdict": "SIGNAL_FOUND",
+      "evidence_ids": [
+        "P03",
+        "P04",
+        "P05"
+      ]
+    },
+    {
+      "ticket_id": "T03",
+      "order_id": "ORD-103",
+      "issue": "SHIPPED_UNPAID",
+      "verdict": "SIGNAL_FOUND",
+      "evidence_ids": [
+        "S01"
+      ]
+    },
+    {
+      "ticket_id": "T04",
+      "order_id": "ORD-101",
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    }
+  ]
+}

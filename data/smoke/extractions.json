@@ -1,0 +1,22 @@
+[
+  {
+    "ticket_id": "T01",
+    "order_id": "ORD-101",
+    "issue": "DOUBLE_CHARGE"
+  },
+  {
+    "ticket_id": "T02",
+    "order_id": "ORD-102",
+    "issue": "PAYMENT_FAILURES"
+  },
+  {
+    "ticket_id": "T03",
+    "order_id": "ORD-103",
+    "issue": "SHIPPED_UNPAID"
+  },
+  {
+    "ticket_id": "T04",
+    "order_id": "ORD-101",
+    "issue": "OTHER"
+  }
+]

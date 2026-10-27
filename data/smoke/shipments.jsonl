@@ -1,0 +1,2 @@
+{"event_id": "S01", "order_id": "ORD-103", "timestamp": "2026-10-25T09:30:00Z", "event_type": "SHIPMENT_CREATED", "details": ""}
+{"event_id": "S02", "order_id": "ORD-101", "timestamp": "2026-10-25T09:30:00Z", "event_type": "SHIPMENT_CREATED", "details": ""}

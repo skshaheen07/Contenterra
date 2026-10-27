@@ -1,0 +1,77 @@
+[
+  {
+    "ticket_id": "C01",
+    "order_id": "ORD-210",
+    "issue": "DOUBLE_CHARGE"
+  },
+  {
+    "ticket_id": "C02",
+    "order_id": "ORD-211",
+    "issue": "PAYMENT_FAILURES"
+  },
+  {
+    "ticket_id": "C03",
+    "order_id": "ORD-212",
+    "issue": "SHIPPED_UNPAID"
+  },
+  {
+    "ticket_id": "C04",
+    "order_id": "ORD-213",
+    "issue": "SHIPPED_UNPAID"
+  },
+  {
+    "ticket_id": "C05",
+    "order_id": "ORD-214",
+    "issue": "DOUBLE_CHARGE"
+  },
+  {
+    "ticket_id": "C06",
+    "order_id": "ORD-215",
+    "issue": "DOUBLE_CHARGE"
+  },
+  {
+    "ticket_id": "C07",
+    "order_id": "ORD-216",
+    "issue": "PAYMENT_FAILURES"
+  },
+  {
+    "ticket_id": "C08",
+    "order_id": "ORD-217",
+    "issue": "SHIPPED_UNPAID"
+  },
+  {
+    "ticket_id": "C09",
+    "order_id": "ORD-218",
+    "issue": "SHIPPED_UNPAID"
+  },
+  {
+    "ticket_id": "C10",
+    "order_id": "ORD-224",
+    "issue": "DOUBLE_CHARGE"
+  },
+  {
+    "ticket_id": "C11",
+    "order_id": "ORD-999",
+    "issue": "DOUBLE_CHARGE"
+  },
+  {
+    "ticket_id": "C12",
+    "order_id": null,
+    "issue": "PAYMENT_FAILURES"
+  },
+  {
+    "ticket_id": "C13",
+    "order_id": "ORD-220",
+    "issue": "OTHER"
+  },
+  {
+    "ticket_id": "C14",
+    "order_id": "ORD-210",
+    "issue": "DOUBLE_CHARGE"
+  },
+  {
+    "ticket_id": "C15",
+    "order_id": "ORD-219",
+    "issue": "PAYMENT_FAILURES"
+  }
+]

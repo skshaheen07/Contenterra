@@ -1,0 +1,130 @@
+{
+  "stats": {
+    "payments": {
+      "total": 27,
+      "accepted": 24,
+      "invalid": 2,
+      "duplicates": 1
+    },
+    "shipments": {
+      "total": 12,
+      "accepted": 10,
+      "invalid": 1,
+      "duplicates": 1
+    },
+    "complaints": {
+      "total": 17,
+      "accepted": 15,
+      "invalid": 1,
+      "duplicates": 1
+    },
+    "llm_errors": 15
+  },
+  "cases": [
+    {
+      "ticket_id": "C01",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C02",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C03",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C04",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C05",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C06",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C07",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C08",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C09",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C10",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C11",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C12",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C13",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C14",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    },
+    {
+      "ticket_id": "C15",
+      "order_id": null,
+      "issue": "OTHER",
+      "verdict": "NOT_APPLICABLE",
+      "evidence_ids": []
+    }
+  ]
+}
